@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://user-images.githubusercontent.com/81702080/118352466-e7c78580-b561-11eb-80d7-ecdb388409ef.png",
-        "url_png_logo": "https://user-images.githubusercontent.com/81702080/118352494-104f7f80-b562-11eb-9d20-e3fb3f07f978.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/sbc-mining/ada-pool/main/64x64png.png",
+        "url_png_logo": "https://raw.githubusercontent.com/sbc-mining/ada-pool/main/512x512.png",
         "location": "Hagen, Germany",
         "social": {
             "twitter_handle": "MiningSbc",
