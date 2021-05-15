@@ -1,0 +1,25 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://user-images.githubusercontent.com/81702080/118352466-e7c78580-b561-11eb-80d7-ecdb388409ef.png",
+        "url_png_logo": "https://user-images.githubusercontent.com/81702080/118352494-104f7f80-b562-11eb-9d20-e3fb3f07f978.png",
+        "location": "Hagen, Germany",
+        "social": {
+            "twitter_handle": "MiningSbc",
+            "telegram_handle": "sbcpool"
+        },
+        "company": {
+            "name": "SBC-Mining / SBC-Pool",
+            "city": "Hagen",
+            "country": "DE"
+                    },
+        "about": {
+            "me": "Single pool operater from Germany. I try to generate some types of crypto on single board computers in different ways in order to enable people in countries where people are not doing so well and who have hardly any money the possibility of passive income. Therefore, 100% of all income goes into this and other projects",
+            "server": "Raspberry Pi 4 8GB powered with green energy. My equipment currently consists of 1 Block Producer and 2 Relay Nodes. I can guarantee an excellent internet connection (Glasfiber 1Gigabit) whit fallback to LTE and a big Battery Pack for Power failure.",
+	    "company": "SBC-Mining ⛏"
+        },
+    "my-pool-ids": {
+        "0": "406a08532d2ca8dd08ea39e082dc8acdc2a3b34d0c517bd0e40af5e1"
+    }
+    }
+   
+}
